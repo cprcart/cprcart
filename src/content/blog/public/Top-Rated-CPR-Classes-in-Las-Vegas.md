@@ -2,7 +2,7 @@
 title: "Top-Rated CPR Classes in Las Vegas & AHA Renewals"
 description: "Find the best CPR classes in Las Vegas. Explore our guide for AHA BLS, ACLS, and PALS renewal certification courses to keep your credentials active."
 pubDate: "Mar 26 2026"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/public/Top-Rated CPR Classes in Las Vegas & AHA Renewals.png"
 ---
 
 <p>Whether you are a healthcare professional working on the Strip, a medical student, or a concerned citizen in Summerlin, knowing how to perform CPR is a life-saving skill. In a bustling city like Las Vegas, the demand for qualified emergency responders remains high. Finding high-quality <a href="https://cprcart.com/locations/nevada/las-vegas/"><strong>CPR classes in Las Vegas</strong></a> is the first step toward gaining the confidence to act during a crisis.</p>
